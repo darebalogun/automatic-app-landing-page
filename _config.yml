@@ -38,7 +38,7 @@ features                                  :
     description                           : Add topics you are interested in to your profile so others can find you.
     fontawesome_icon_name                 : user-plus
 
-  - title                                 : Pick a topic
+  - title                                 : Find new friends
     description                           : Select from our curated topics to find people to talk to.
     fontawesome_icon_name                 : crosshairs
 
