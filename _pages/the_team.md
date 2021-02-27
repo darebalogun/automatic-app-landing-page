@@ -5,9 +5,11 @@ include_in_header: true
 ---
 
 <p float="left">
-  <a href="https://github.com/darebalogun"> 
-    <img src="/bigtalk-app/assets/profiles/me.jpeg" alt="Dare Balogun" width="200"/>
-  </a>
+  <div style="display: flex; align-items: center;">
+    <a href="https://github.com/darebalogun"> 
+      <img src="/bigtalk-app/assets/profiles/me.jpeg" alt="Dare Balogun" width="200"/>
+    </a>
+  </div>
   <div style="display: flex; align-items: center;"> 
     As team lead and sole developer, Dare spent most of his time getting everyone together on zoom and tackling the many issues with mobile VOIP software           </div>
 </p>
