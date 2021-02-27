@@ -8,7 +8,7 @@ include_in_header: true
   <a href="https://github.com/darebalogun"> 
     <img src="/bigtalk-app/assets/profiles/me.jpeg" alt="Dare Balogun" width="200"/>
   </a>
-  <div> As team lead and sole developer, Dare spent most of his time getting everyone together on zoom and tackling the many issues with mobile VOIP software </div>
+  <nobr> As team lead and sole developer, Dare spent most of his time getting everyone together on zoom and tackling the many issues with mobile VOIP software        </nobr>
 </p>
 
 <a href="https://www.linkedin.com/in/jasmine-foong/"> 
