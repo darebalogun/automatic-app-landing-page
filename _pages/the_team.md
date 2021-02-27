@@ -4,7 +4,7 @@ title: The Team
 include_in_header: true
 ---
 
-<p float="left">
+<span>
   <div style="display: flex; align-items: center;">
     <a href="https://github.com/darebalogun"> 
       <img src="/bigtalk-app/assets/profiles/me.jpeg" alt="Dare Balogun" width="200"/>
@@ -12,7 +12,7 @@ include_in_header: true
   </div>
   <div style="display: flex; align-items: center;"> 
     As team lead and sole developer, Dare spent most of his time getting everyone together on zoom and tackling the many issues with mobile VOIP software           </div>
-</p>
+</span>
 
 <p float="left">
   <a href="https://www.linkedin.com/in/jasmine-foong/"> 
